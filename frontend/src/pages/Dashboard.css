@@ -1,0 +1,13 @@
+.dashboard-container {
+    width: 90%;
+  
+    max-width: 1300px;
+  
+    margin: 30px auto;
+  }
+  
+  .dashboard-container h1 {
+    margin-bottom: 30px;
+  
+    color: #111827;
+  }

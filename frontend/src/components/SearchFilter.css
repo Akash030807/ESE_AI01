@@ -1,0 +1,32 @@
+.search-filter {
+    display: flex;
+    gap: 15px;
+  
+    margin-bottom: 30px;
+  
+    flex-wrap: wrap;
+  }
+  
+  .search-filter input {
+    flex: 1;
+  
+    min-width: 220px;
+  
+    padding: 14px;
+  
+    border: 1px solid #ccc;
+  
+    border-radius: 8px;
+  }
+  
+  .search-filter button {
+    background: #111827;
+  
+    color: white;
+  
+    border: none;
+  
+    padding: 14px 25px;
+  
+    border-radius: 8px;
+  }

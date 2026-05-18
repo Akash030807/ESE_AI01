@@ -1,0 +1,41 @@
+.recommendations-container {
+    width: 90%;
+  
+    max-width: 1200px;
+  
+    margin: 40px auto;
+  }
+  
+  .recommendations-container h1 {
+    color: #111827;
+  
+    margin-bottom: 15px;
+  }
+  
+  .recommendations-container p {
+    color: #4b5563;
+  
+    margin-bottom: 30px;
+  
+    line-height: 1.7;
+  }
+  
+  .generate-btn {
+    background: #2563eb;
+  
+    color: white;
+  
+    border: none;
+  
+    padding: 16px 28px;
+  
+    border-radius: 10px;
+  
+    font-size: 16px;
+  
+    transition: 0.3s;
+  }
+  
+  .generate-btn:hover {
+    background: #1d4ed8;
+  }
